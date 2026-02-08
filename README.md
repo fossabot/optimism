@@ -27,6 +27,8 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## What is Optimism?
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Foptimism.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Foptimism?ref=badge_shield)
+
 
 [Optimism](https://www.optimism.io/) is a project dedicated to scaling Ethereum's technology and expanding its ability to coordinate people from across the world to build effective decentralized economies and governance systems. The [Optimism Collective](https://www.optimism.io/vision) builds open-source software that powers scalable blockchains and aims to address key governance and economic challenges in the wider Ethereum ecosystem. Optimism operates on the principle of **impact=profit**, the idea that individuals who positively impact the Collective should be proportionally rewarded with profit. **Change the incentives and you change the world.**
 
@@ -144,3 +146,6 @@ Feature branches are typically used when there are conflicts between 2 projects 
 ## License
 
 All other files within this repository are licensed under the [MIT License](https://github.com/ethereum-optimism/optimism/blob/master/LICENSE) unless stated otherwise.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Foptimism.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Foptimism?ref=badge_large)
